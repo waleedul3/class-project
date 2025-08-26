@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chess Board</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="chessboard">
+    <!-- 8x8 squares -->
+    <!-- Each row has 8 squares -->
+    <!-- We'll just generate them manually for simplicity -->
+    <div class="row">
+      <div class="square black"></div>
+      <div class="square white"></div>
+      <div class="square black"></div>
+      <div class="square white"></div>
+      <div class="square black"></div>
+      <div class="square white"></div>
+      <div class="square black"></div>
+      <div class="square white"></div>
+    </div>
+    <div class="row">
+      <div class="square white"></div>
+      <div class="square black"></div>
+      <div class="square white"></div>
+      <div class="square black"></div>
+      <div class="square white"></div>
+      <div class="square black"></div>
+      <div class="square white"></div>
+      <div class="square black"></div>
+    </div>
+    <!-- Repeat rows until you have 8 total -->
+  </div>
+</body>
+</html>
