@@ -1,0 +1,18 @@
+.font{
+    font-size: 30px;
+    color: black;
+    background-color: green;
+    text-align: center;
+    border: 2px solid black;
+
+
+}
+.waleed{
+    font-size: 20px;
+    color: red;
+    background-color: black;
+    text-align: center;
+    border: 2px solid black;
+
+    margin-top: 20px;
+    margin-bottom: 20px;    }
